@@ -19,7 +19,7 @@ Skrypty startowe dla serwerów Xprint
 Summary:	Init scripts for Xprint servers
 Summary(pl):	Skrypty startowe dla serwerów Xprint
 Group:		X11/XFree86
-Requires:	%{name}-shellscript
+Requires:	xprint-shellscript
 
 %description -n xprint-initrc
 Init scripts for Xprint servers.
