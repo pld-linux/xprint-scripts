@@ -6,6 +6,7 @@ Release:	1
 License:	GPL
 Group:		X11/XFree86
 Source0:	xprintscripts-%{version}.tgz
+# Source0-md5:	65ba8e8263e6717e8bfc67545c50aed5
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
