@@ -48,7 +48,7 @@ exit 0
 rm -rf $RPM_BUILD_ROOT
 install -d $RPM_BUILD_ROOT
 
-gzip -dc %{SOURCE0} | tar -xf - -C $RPM_BUILD_ROOT 
+gzip -dc %{SOURCE0} | tar -xf - -C $RPM_BUILD_ROOT
 
 %clean
 rm -rf $RPM_BUILD_ROOT
