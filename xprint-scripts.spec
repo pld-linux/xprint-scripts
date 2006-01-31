@@ -10,10 +10,10 @@ Source0:	xprintscripts-%{version}.tgz
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
-Init scripts for Xprint servers
+Init scripts for Xprint servers.
 
 %description -l pl
-Skrypty startowe dla serwerów Xprint
+Skrypty startowe dla serwerów Xprint.
 
 %package -n xprint-initrc
 Summary:	Init scripts for Xprint servers
