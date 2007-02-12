@@ -1,5 +1,5 @@
 Summary:	Init scripts for Xprint servers
-Summary(pl):	Skrypty startowe dla serwer體 Xprint
+Summary(pl.UTF-8):   Skrypty startowe dla serwer贸w Xprint
 Name:		xprint-scripts
 Version:	0.3
 Release:	1
@@ -12,31 +12,31 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Init scripts for Xprint servers.
 
-%description -l pl
-Skrypty startowe dla serwer體 Xprint.
+%description -l pl.UTF-8
+Skrypty startowe dla serwer贸w Xprint.
 
 %package -n xprint-initrc
 Summary:	Init scripts for Xprint servers
-Summary(pl):	Skrypty startowe dla serwer體 Xprint
+Summary(pl.UTF-8):   Skrypty startowe dla serwer贸w Xprint
 Group:		X11
 Requires:	xprint-shellscript
 
 %description -n xprint-initrc
 Init scripts for Xprint servers.
 
-%description -n xprint-initrc -l pl
-Skrypty startowe dla serwer體 Xprint.
+%description -n xprint-initrc -l pl.UTF-8
+Skrypty startowe dla serwer贸w Xprint.
 
 %package -n xprint-shellscript
 Summary:	Init scripts for Xprint servers
-Summary(pl):	Skrypt inicjalizuj眂y dla serwer體 Xprint
+Summary(pl.UTF-8):   Skrypt inicjalizuj膮cy dla serwer贸w Xprint
 Group:		X11
 
 %description -n xprint-shellscript
 Init scripts for Xprint servers.
 
-%description -n xprint-shellscript -l pl
-Skrypt inicjalizuj眂y dla serwer體 Xprint.
+%description -n xprint-shellscript -l pl.UTF-8
+Skrypt inicjalizuj膮cy dla serwer贸w Xprint.
 
 %prep
 exit 0
