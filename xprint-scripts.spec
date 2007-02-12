@@ -1,5 +1,5 @@
 Summary:	Init scripts for Xprint servers
-Summary(pl.UTF-8):   Skrypty startowe dla serwerów Xprint
+Summary(pl.UTF-8):	Skrypty startowe dla serwerów Xprint
 Name:		xprint-scripts
 Version:	0.3
 Release:	1
@@ -17,7 +17,7 @@ Skrypty startowe dla serwerów Xprint.
 
 %package -n xprint-initrc
 Summary:	Init scripts for Xprint servers
-Summary(pl.UTF-8):   Skrypty startowe dla serwerów Xprint
+Summary(pl.UTF-8):	Skrypty startowe dla serwerów Xprint
 Group:		X11
 Requires:	xprint-shellscript
 
@@ -29,7 +29,7 @@ Skrypty startowe dla serwerów Xprint.
 
 %package -n xprint-shellscript
 Summary:	Init scripts for Xprint servers
-Summary(pl.UTF-8):   Skrypt inicjalizujący dla serwerów Xprint
+Summary(pl.UTF-8):	Skrypt inicjalizujący dla serwerów Xprint
 Group:		X11
 
 %description -n xprint-shellscript
